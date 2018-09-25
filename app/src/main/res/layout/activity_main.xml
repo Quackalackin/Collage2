@@ -48,7 +48,7 @@
         android:layout_marginBottom="250dp"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="  YellowStonePark"
+        android:text="  Yellow Stone Park"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
@@ -59,7 +59,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="   StatueOfLiberty"
+        android:text="   Statue Of Liberty"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="@+id/imageView2"
         app:layout_constraintTop_toTopOf="parent" />
@@ -71,7 +71,7 @@
         android:layout_marginBottom="49dp"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="         GrandCanyon"
+        android:text="         Grand Canyon"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
